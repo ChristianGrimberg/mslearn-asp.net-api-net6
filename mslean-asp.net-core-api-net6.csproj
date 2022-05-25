@@ -7,4 +7,8 @@
     <RootNamespace>mslean_asp.net_core_api_net6</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
 </Project>
