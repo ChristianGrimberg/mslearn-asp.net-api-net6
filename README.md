@@ -1,9 +1,5 @@
 # Microsoft Lean
 
-## ASP.Net Core Minimal API project
-
-Microsoft Lean learning path at [ASP.Net Core Minimal API](https://docs.microsoft.com/es-mx/learn/paths/aspnet-core-minimal-api/)
-
 ## Steps to run this project
 
 1. Clone this repo: `git clone https://github.com/ChristianGrimberg/mslean-asp.net-core-api-net6.git`.
